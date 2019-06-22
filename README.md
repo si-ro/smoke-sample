@@ -3,7 +3,7 @@ smoke-sample
 
 Sample code for https://github.com/sinclairzx81/smoke
 
-```TypeScript
+```typescript
 import {Node} from 'smoke-node'
 
 const node0 = new Node() // 0.0.0.1
